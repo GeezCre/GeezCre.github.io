@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>HBD ANAK KAMPRET</title>
+  <div class='Slider' id='Slider'>
+<div class='inner'>
+<div class='Slider-wrapper'>
+<script src='https://info.naminakiky.com/feeds/posts/default/-/Bahasa?orderby=published&alt=json-in-script&callback=showfeaturepostswiththumbs'></script>
+</div>
+</div>
+</div>
+<link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="star">
+	<div id="planet">
+  </div>
+</div>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+</body>
+</html>
